@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPTAssistant", "GPTAssistant.csproj", "{DBEC40EA-C2D0-428B-8A3E-7EB6DE5F8835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBEC40EA-C2D0-428B-8A3E-7EB6DE5F8835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEC40EA-C2D0-428B-8A3E-7EB6DE5F8835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEC40EA-C2D0-428B-8A3E-7EB6DE5F8835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEC40EA-C2D0-428B-8A3E-7EB6DE5F8835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD8F2759-184F-4B66-8E73-2706944D0402}
+	EndGlobalSection
+EndGlobal
