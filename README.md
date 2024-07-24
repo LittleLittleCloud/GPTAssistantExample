@@ -17,7 +17,9 @@ dotnet run
 ## Example output
 
 ```bash
-2024-07-24 18:48:42.588288
+2024-07-24 20:49:28.215137
 541
 The 100th prime number is 541
+comparing which number is larger: 9.9 or 9.11
+Is 9.9 larger than 9.11? True
 ```
