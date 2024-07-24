@@ -47,6 +47,9 @@ var task = """
     print(datetime.datetime.now())
     print(Nth_prime(N))
     print(f'The {N}th prime number is {Nth_prime(N)}')
+
+    print('comparing which number is larger: 9.9 or 9.11')
+    print(f`Is 9.9 larger than 9.11? {9.9 > 9.11}`)
     ```
 
     Put the output in a code block: ```output ``` and send it back to me.
